@@ -1,9 +1,12 @@
 [submodule "About-Kami"]
 	path = About-Kami
 	url = git@github.com:VlxtIykg/About-Kami.git
+	branch = development
 [submodule "endpoint"]
 	path = endpoint
 	url = git@github.com:VlxtIykg/endpoint.git
 [submodule "status-switcher"]
 	path = status-switcher
 	url = git@github.com:VlxtIykg/status-switcher.git
+[submodule]
+	About-Kami = branch
